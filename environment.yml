@@ -1,4 +1,4 @@
-name: base
+name: me592
 channels:
   - defaults
 dependencies:
