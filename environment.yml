@@ -40,5 +40,4 @@ dependencies:
   - wheel=0.37.1=pyhd3eb1b0_0
   - xz=5.2.5=h7b6447c_0
   - yaml=0.2.5=h7b6447c_0
-  - zlib=1.2.12=h7f8727e_1
 prefix: /usr/local
